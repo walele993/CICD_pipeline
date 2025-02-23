@@ -1,7 +1,3 @@
-# CICD_pipeline
-
-
-=======
 # CI/CD Pipeline
 
 **CI/CD Pipeline** is a GitHub Actions workflow designed to automate the process of continuous integration and continuous deployment, ensuring that code changes are automatically tested and deployed. This pipeline focuses on streamlining the development process, improving code quality, and accelerating delivery.
