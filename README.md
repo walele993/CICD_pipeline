@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CICD_pipeline
 
 
@@ -172,4 +171,3 @@ Created by **Gabriele Meucci** – Focusing on automating development workflows 
 
 **Happy coding! 💻**
 *Automate your workflow, accelerate your delivery.*
->>>>>>> 31cfd0b7740e17749964b8db7c3d93c7d2d0b0a7
